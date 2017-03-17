@@ -11,6 +11,11 @@ If you'd like to try this out yourself:
 3. Boot a server with `bundle exec rackup`
 4. Boot the client (in a separate terminal) with `ruby client.rb`
 
+![](https://cloud.githubusercontent.com/assets/1006966/24056530/7b630612-0b1a-11e7-9b9a-83281f6b6a99.jpg)
+
+
+## How it works
+
 The `client.rb` file contains the `Names::Client` class as well as the following
 lines at the end:
 
